@@ -1,0 +1,100 @@
+
+
+
+h1{
+    text-align: center;
+}
+
+.cont{
+
+    margin: 100x 50px 100px 50px;
+    padding: 50px 500px 50px 500px;
+}
+
+.im{
+position: relative;
+right: 250px;
+
+}
+
+#bar{
+    background-color: purple;
+    border: 5px solid black;
+}
+
+
+.cont2{
+margin: 50px 80px 50px 80px;
+padding: 20px 150px 20px 150px;
+
+
+
+}
+
+.con15{
+    margin: 50px 80px 50px 80px;
+    padding: 10px 150px 10px 150px;
+    
+
+}
+
+
+
+.cont3{
+
+    margin: 100px 50px 100px 50px ;
+
+
+
+}
+
+.cont35{
+
+    margin: 100px 50px 100px 50px;
+   padding: 30px 20px 0px 50px;
+}
+
+
+.cont4{
+
+margin: 100px 50px 100px 100px;
+
+padding: 30px 100px 30px 100px;
+
+
+}
+
+p{
+    text-align: justify;
+}
+
+
+.cont45{
+    margin: 100px 100px 100px 50px;
+
+    padding: 30px 100px 30px 100px;
+
+  position: relative;
+
+  bottom: 1700px;
+  left: 600px;
+
+}
+
+#barra{
+    color: black;
+}
+
+.tit{
+font-size: 30px;
+}
+
+.desp{
+text-align: center;
+font-size: 30px;
+
+}
+
+#car{
+    text-align: justify;
+}
