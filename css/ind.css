@@ -31,11 +31,15 @@ padding: 20px 150px 20px 150px;
 
 }
 
-.con15{
+.cont15{
     margin: 50px 80px 50px 80px;
     padding: 10px 150px 10px 150px;
     
+    position: relative;
 
+    bottom: 1545px;
+    left: 500px;
+  
 }
 
 
@@ -74,12 +78,17 @@ p{
 
     padding: 30px 100px 30px 100px;
 
-  position: relative;
-
-  bottom: 1700px;
-  left: 600px;
+position: relative;
+bottom: 100px;
 
 }
+
+.cont48{
+    margin: 100px 50px 100px 50px ;
+    position: relative;
+    bottom: 1400px;
+}
+
 
 #barra{
     color: black;
